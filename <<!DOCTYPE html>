@@ -1,0 +1,18 @@
+<<!DOCTYPE html>
+
+<head>
+  <title>Le colain | On the ROAD</title>
+  <meta name="description" content="Cette page a pour but de me présenter, clique dessus pour davantage d'infos">
+  <meta charset="utf-8">
+</head>
+
+<body>
+	<h1>BRUTINEL Colain</h1>
+	<img src="images/ma-photo.jpg" alt="BRUTINEL Colain">
+
+	<p> La SFAC vous fournit des pièces automobiles et de carosseries pour les particuliers et professionnels
+	</p>
+
+	<a href="http://SFAC05gap.com"> SFAC gap</a>
+</body>
+
